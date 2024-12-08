@@ -1,0 +1,15 @@
+{
+  "name": "actors-oven",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@sinclair/typebox": "^0.33.15",
+    "p-queue": "^8.0.1"
+  }
+}
